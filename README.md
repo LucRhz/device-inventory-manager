@@ -48,7 +48,7 @@ Previously, device tracking was handled via basic Google Forms, which resulted i
 * **Maintenance History:** A complete historical record of all previous technical interventions.
     ![Maintenance History](./assets/maintenance-history.png)
   
-* **Sidebar:** The app's navigation menu for quick access to history, feedback, and settings.
+* **Sidebar:** The app's navigation menu for quick access to history and feedbacks.
     ![Sidebar](./assets/sidebar.png)
 
 ---
