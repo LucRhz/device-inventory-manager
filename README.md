@@ -34,16 +34,20 @@ Previously, device tracking was handled via basic Google Forms, which resulted i
 ### 🖥️ Device Status Management
 * **Available Devices:** Overview of hardware currently ready for deployment.
     ![Available](./assets/available.png)
+  
 * **In Use:** Real-time tracking of assets currently assigned to employees.
     ![In Use](./assets/in-use.png)
+  
 * **Under Maintenance:** Monitoring devices that are currently undergoing technical repairs.
     ![Under Maintenance](./assets/under-maintenance.png)
 
 ### 📊 Operations & Records
 * **Inventory Count:** Interface dedicated to the physical counting and auditing of devices.
     ![Inventory Count](./assets/inventory-count.png)
+  
 * **Maintenance History:** A complete historical record of all previous technical interventions.
     ![Maintenance History](./assets/maintenance-history.png)
+  
 * **Sidebar:** The app's navigation menu for quick access to history, feedback, and settings.
     ![Sidebar](./assets/sidebar.png)
 
