@@ -43,14 +43,14 @@ Workflows designed for technical support and warehouse management.
 * **Inventory Counting:** The interface for physical auditing and stock reconciliation.
     ![Inventory Count](./assets/inventory-count.png)
 * **Under Maintenance:** Tracking devices with technical issues or pending repairs.
-    ![Under Maintenance](./assets/under-maintence.png)
+    ![Under Maintenance](./assets/under-maintenance.png)
 
 ### 📜 Navigation & Records
 System structure and historical data tracking.
 * **Navigation Sidebar:** Quick access to history, feedback, and app modules.
     ![Sidebar](./assets/sidebar.png)
 * **Maintenance History:** Full audit trail of past repairs and hardware interventions.
-    ![Maintenance History](./assets/maintance-history.png)
+    ![Maintenance History](./assets/maintenance-history.png)
 
 ---
 
