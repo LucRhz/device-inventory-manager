@@ -31,26 +31,21 @@ Previously, device tracking was handled via basic Google Forms, which resulted i
 
 ## 📸 Visual Preview
 
-### 🖥️ Core Views
-This section shows the real-time status of the hardware fleet.
-* **Available Devices:** Overview of all hardware currently ready for deployment.
-    ![Available Devices](./assets/available.png)
-* **Devices In-Use:** Real-time tracking of assets assigned to employees.
+### 🖥️ Device Status Management
+* **Available Devices:** Overview of hardware currently ready for deployment.
+    ![Available](./assets/available.png)
+* **In Use:** Real-time tracking of assets currently assigned to employees.
     ![In Use](./assets/in-use.png)
-
-### 🛠️ Operations & Maintenance
-Workflows designed for technical support and warehouse management.
-* **Inventory Counting:** The interface for physical auditing and stock reconciliation.
-    ![Inventory Count](./assets/inventory-count.png)
-* **Under Maintenance:** Tracking devices with technical issues or pending repairs.
+* **Under Maintenance:** Monitoring devices that are currently undergoing technical repairs.
     ![Under Maintenance](./assets/under-maintenance.png)
 
-### 📜 Navigation & Records
-System structure and historical data tracking.
-* **Navigation Sidebar:** Quick access to history, feedback, and app modules.
-    ![Sidebar](./assets/sidebar.png)
-* **Maintenance History:** Full audit trail of past repairs and hardware interventions.
+### 📊 Operations & Records
+* **Inventory Count:** Interface dedicated to the physical counting and auditing of devices.
+    ![Inventory Count](./assets/inventory-count.png)
+* **Maintenance History:** A complete historical record of all previous technical interventions.
     ![Maintenance History](./assets/maintenance-history.png)
+* **Sidebar:** The app's navigation menu for quick access to history, feedback, and settings.
+    ![Sidebar](./assets/sidebar.png)
 
 ---
 
