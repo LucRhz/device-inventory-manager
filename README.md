@@ -30,9 +30,8 @@ Previously, device tracking was handled via basic Google Forms, which resulted i
 ---
 
 ## 📸 Preview
-*(Note: Visuals below use mocked data for confidentiality)*
 
-1. **Main Dashboard:** `![Dashboard](./assets/dashboard-mockup.png)`
+1. **App First Screen:** ./assets/in-use.png
 2. **Device Inventory List:** `![Device List](./assets/list-view.png)`
 
 ---
