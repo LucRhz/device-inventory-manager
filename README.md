@@ -29,10 +29,28 @@ Previously, device tracking was handled via basic Google Forms, which resulted i
 
 ---
 
-## 📸 Preview
+## 📸 Visual Preview
 
-1. **App First Screen:** ./assets/in-use.png
-2. **Device Inventory List:** `![Device List](./assets/list-view.png)`
+### 🖥️ Core Views
+This section shows the real-time status of the hardware fleet.
+* **Available Devices:** Overview of all hardware currently ready for deployment.
+    ![Available Devices](./assets/available.png)
+* **Devices In-Use:** Real-time tracking of assets assigned to employees.
+    ![In Use](./assets/in-use.png)
+
+### 🛠️ Operations & Maintenance
+Workflows designed for technical support and warehouse management.
+* **Inventory Counting:** The interface for physical auditing and stock reconciliation.
+    ![Inventory Count](./assets/inventory-count.png)
+* **Under Maintenance:** Tracking devices with technical issues or pending repairs.
+    ![Under Maintenance](./assets/under-maintence.png)
+
+### 📜 Navigation & Records
+System structure and historical data tracking.
+* **Navigation Sidebar:** Quick access to history, feedback, and app modules.
+    ![Sidebar](./assets/sidebar.png)
+* **Maintenance History:** Full audit trail of past repairs and hardware interventions.
+    ![Maintenance History](./assets/maintance-history.png)
 
 ---
 
